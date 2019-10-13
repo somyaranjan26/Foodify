@@ -22,5 +22,5 @@ We came up with a web application using machine learning which keeps the tracks 
 **NOTE:** Port No. may vary.
 
 ```
-![alt text](https://github.com/somyaranjan26/Foodify/foodify_black.png "Foodify")
+![alt text](https://github.com/somyaranjan26/Foodify/foodify/foodify_black.png "Foodify")
 ```
