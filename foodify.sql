@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 12, 2019 at 06:37 PM
+-- Generation Time: Oct 13, 2019 at 07:19 AM
 -- Server version: 10.1.37-MariaDB
 -- PHP Version: 7.3.0
 
@@ -67,14 +67,39 @@ CREATE TABLE `intakes` (
 --
 
 INSERT INTO `intakes` (`id`, `intakeid`, `calorieid`, `uid`, `date`, `time`) VALUES
-(35, 'Wo1HAmIkNyh6Pd', 'sf3tfsf3fsadf3s', '2RIqL6yHWWwdqI', '12/10/2019', '08:34:11PM'),
-(36, 'Lc1onpbOzkyjE3', 'sf3tfsf3fsadf3s', '2RIqL6yHWWwdqI', '12/10/2019', '08:36:06PM'),
-(37, '1oIYHbW8FrDZhE', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '12/10/2019', '08:37:03PM'),
-(38, 'veO3ZxPLZzvcPf', 'bisg8s8gd8s88', '2RIqL6yHWWwdqI', '12/10/2019', '08:37:45PM'),
-(39, 'sDhxqLwZFEg6JJ', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '12/10/2019', '08:38:27PM'),
-(40, 'ZCKdbgmzguoEL2', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '12/10/2019', '08:43:59PM'),
-(41, 'ZteDfj54OjicCH', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '12/10/2019', '08:45:04PM'),
-(49, 'O7mEmXhgeWKAAW', 'sf939whf9sdfjs', '2RIqL6yHWWwdqI', '12/10/2019', '09:51:07PM');
+(54, 'RIevEdk4zrJ1gM', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '08:31:53AM'),
+(55, 'lJNIO3WEZH5nXq', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '08:31:53AM'),
+(56, 'l4rorJZnrW4v5d', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '08:31:53AM'),
+(57, 'mGkOrqlcYDj2Jt', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '08:31:53AM'),
+(58, 'yTBmDsYmCqusLh', 'du8sd82hdsjdha', 'bSYfMmW4tWmPN6', '13/10/2019', '08:33:44AM'),
+(60, 'jOiaFafkw7jU65', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '09:33:34AM'),
+(61, 'yseZFr4WTzxIzA', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '09:33:34AM'),
+(62, '2Be4kV5VlZCTIx', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '09:33:34AM'),
+(63, 'PT4WyGIpvMEGjZ', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '09:33:34AM'),
+(70, 'GJqeBchEIKwvBb', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(71, 'OpW1OrADNZWGhn', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(72, 'xKkbmqzZV73Seh', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(73, 'vZoM42Y4iZSjM9', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(74, '2GGCbvuqUF1F9d', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(75, 'GJAiSWW5NxmSl5', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(76, '8LFgrrSSpEwLmz', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(77, 'nJlc6vYgR6zLOv', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(78, 'nEFz4xg9VVsxxt', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(79, 'PvV8YctY12NWGl', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(80, '42g3KbVcHCJ9WU', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(81, 'vi7P1a3Jh3owb7', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(82, 'k8VdTcWU9EN4T8', '345dwef32rf3sfsfd', '2RIqL6yHWWwdqI', '13/10/2019', '10:31:07AM'),
+(83, 'fBxK3WPZ2zpptq', 'sf939whf9sdfjs', '2RIqL6yHWWwdqI', '13/10/2019', '10:32:59AM'),
+(84, '2STWLdvnLm7Azz', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM'),
+(85, 'I8LNjkdvSXmtuc', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM'),
+(86, 'JLdMWC2Uxl5L6K', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM'),
+(87, 'rNmkYGNW2JWvJs', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM'),
+(88, 'ZUWE6u6OKgcfm6', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM'),
+(89, '9WrJzFczMbdMWm', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM'),
+(90, '7Nedqwu2V9MDWx', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM'),
+(91, 'yEOBqfPoW49kSd', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM'),
+(92, '1CnxAURLJ7nDth', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM'),
+(93, 'SfJCLq5F49Ekzw', 'sf3tfsf3fsadf3s', 'bSYfMmW4tWmPN6', '13/10/2019', '10:48:42AM');
 
 -- --------------------------------------------------------
 
@@ -124,8 +149,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `uid`, `name`, `email`, `password`, `fitbitid`) VALUES
-(5, '2RIqL6yHWWwdqI', 'Fury', 'sankit945@gmail.com', 'ankit123', 'f3fq3fqasdfsfdsa'),
-(6, 'bSYfMmW4tWmPN6', 'vishu', 'vishweswar53@gmail.com', 'vishu123', 'NULL'),
+(5, '2RIqL6yHWWwdqI', 'Ankit', 'sankit945@gmail.com', 'ankit123', 'f3fq3fqasdfsfdsa'),
+(6, 'bSYfMmW4tWmPN6', 'Vishu', 'vishweswar53@gmail.com', 'vishu123', 'j5j5jhythdfh4hs'),
 (7, '8wuCUhzYYUgmEZ', 'Somya', 'soumya@soumya.com', 'soumya', 'vxxverfeg34gdg');
 
 --
@@ -170,7 +195,7 @@ ALTER TABLE `calories`
 -- AUTO_INCREMENT for table `intakes`
 --
 ALTER TABLE `intakes`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=50;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=94;
 
 --
 -- AUTO_INCREMENT for table `nutritions`

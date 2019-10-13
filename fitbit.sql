@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 12, 2019 at 06:37 PM
+-- Generation Time: Oct 13, 2019 at 07:19 AM
 -- Server version: 10.1.37-MariaDB
 -- PHP Version: 7.3.0
 
@@ -36,17 +36,18 @@ CREATE TABLE `users` (
   `weight` varchar(122) NOT NULL,
   `age` varchar(122) NOT NULL,
   `sex` varchar(122) NOT NULL,
-  `excercise` varchar(122) NOT NULL
+  `excercise` varchar(122) NOT NULL,
+  `burntcalories` varchar(333) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `uid`, `name`, `height`, `weight`, `age`, `sex`, `excercise`) VALUES
-(1, 'f3fq3fqasdfsfdsa', 'FuRy', '1.83', '80', '19', '1', '2'),
-(2, 'j5j5jhythdfh4hs', 'V1zh3d', '1.78', '75', '19', '1', '3'),
-(3, 'vxxverfeg34gdg', 'Somya', '1.74', '72', '19', '0', '2');
+INSERT INTO `users` (`id`, `uid`, `name`, `height`, `weight`, `age`, `sex`, `excercise`, `burntcalories`) VALUES
+(1, 'f3fq3fqasdfsfdsa', 'Ankit', '1.83', '80', '19', '1', '2', '67'),
+(2, 'j5j5jhythdfh4hs', 'Vishu', '1.78', '70', '19', '1', '3', '72'),
+(3, 'vxxverfeg34gdg', 'Somya', '1.74', '72', '19', '0', '2', '75');
 
 --
 -- Indexes for dumped tables
