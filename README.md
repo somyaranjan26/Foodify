@@ -21,4 +21,5 @@ We came up with a web application using machine learning which keeps the tracks 
 2. Rename the **foodify-master** folder to **foodify**.
 3. Move the folder to **xampp/htdocs**.
 4. In browser goto URL and type  `http://localhost/foodify` .
+
 **NOTE:** Port No. may vary.
